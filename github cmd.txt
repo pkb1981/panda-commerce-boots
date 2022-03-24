@@ -1,0 +1,15 @@
+PROJECTS START GITHUB SETUP
+
+
+
+git init
+
+git add .
+ 
+git commit -m "start"
+
+git branch -M main
+
+git remote add origin https://github.com/pkb1981/panda-commerce-boots.git
+
+git push -u origin main
